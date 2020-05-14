@@ -7,4 +7,4 @@
 [- Protein Superpositioning using Bayesian Inference](https://github.com/romba050/Protein_Superpositioning_using_Bayesian_Inference) <br>
 
 ### Tableau Public
-[Investment Data Visualization](https://public.tableau.com/shared/QYP5BHJZZ?:display_count=y&:origin=viz_share_link)
+[- Investment Data Visualization](https://public.tableau.com/shared/QYP5BHJZZ?:display_count=y&:origin=viz_share_link)
