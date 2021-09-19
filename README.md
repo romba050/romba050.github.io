@@ -10,3 +10,6 @@
 
 ### Tableau Public
 [- GDP vs CO2 emmissions by world region](https://public.tableau.com/app/profile/basile.rommes/viz/gdp_vs_c02_twbx/Sheet1)
+
+# CV
+<a href="https://github.com/romba050/romba050.github.io/blob/master/CV_Latex.pdf" target="_blank">PDF.</a>
