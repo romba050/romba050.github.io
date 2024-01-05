@@ -6,7 +6,7 @@
 
 ### Bioinformatics
 [- Protein Superpositioning using Bayesian Inference](https://github.com/romba050/Protein_Superpositioning_using_Bayesian_Inference) <br>
-[- Visualization of HIV Proteins from Protein Databank (PDB)](https://chenbascaral.github.io/) <br/>
+[- Visualization of HIV Proteins from Protein Databank (PDB)](https://chenbascaral.github.io/) (Group Project) <br/>
 
 ### Tableau Public
 [- GDP vs CO2 emmissions by world region](https://public.tableau.com/app/profile/basile.rommes/viz/gdp_vs_c02_twbx/Sheet1)
